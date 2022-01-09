@@ -1,10 +1,12 @@
 {
-    "name": "eE2",
+    "name": "micro:pack",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.3",
+        "eE2": "github:tarani-2020/ee2#83df54b308b1a21fdb6b696746c2dcb755a4930b"
     },
     "files": [
         "main.blocks",
